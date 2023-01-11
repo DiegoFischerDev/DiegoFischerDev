@@ -1,6 +1,6 @@
 ## Hello! I am Diego 🖐️
 
-A technology enthusiast under career transition from maritime engineer to Front End Dev ✌️
+A technology enthusiast under career transition from maritime engineer to front end dev ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegofischer.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fischer-753579108/)
