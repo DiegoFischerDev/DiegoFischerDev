@@ -7,7 +7,7 @@ A technology enthusiast under career transition from maritime engineer to front 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/diego-fischer-753579108/)
 
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofischerdev&show_icons=true&theme=merko&count_private=true)
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofischerdev&show_icons=true&theme=merko&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofischerdev&langs_count=8)](https://github.com/diegofischerdev/github-readme-stats)
 
