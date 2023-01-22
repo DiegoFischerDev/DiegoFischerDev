@@ -11,7 +11,7 @@ A technology enthusiast under career transition from maritime engineer to front 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofischerdev&langs_count=8)](https://github.com/diegofischerdev/github-readme-stats)
 
-## Stacks I already know ...
+## Stacks I've worked with ...
 <div style="display: inline_block">
   <img align="center" alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -27,13 +27,15 @@ A technology enthusiast under career transition from maritime engineer to front 
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-## Next Stacks ...
+## Next Stacks ... 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
   <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="center" alt="JavaWeb" src="https://img.shields.io/badge/JAVAWEB-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54" />
+  <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
 
 <!--font https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
+<!--Badges https://github.com/Ileriayo/markdown-badges -->
