@@ -1,6 +1,7 @@
 ## Hello! I am Diego 🖐️
 
-A technology enthusiast under career transition from maritime engineer to front end dev ✌️
+“I’m a programmer. I like programming. And the best way I’ve found to have a positive impact on code is to write it.”  ✌️  
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegofischer.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fischer-753579108/)
