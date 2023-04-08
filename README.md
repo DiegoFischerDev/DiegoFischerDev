@@ -1,6 +1,6 @@
 ## Hello! I am Diego 🖐️
 
-“I’m a programmer. I like programming. And the best way I’ve found to have a positive impact on code is to write it.”  ✌️  
+I'm a Frontend Developer learning how to code better everyday.  
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegofischer.dev/)
