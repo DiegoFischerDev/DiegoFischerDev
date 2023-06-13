@@ -1,8 +1,8 @@
 ## Hello! I am Diego 🖐️
 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-373737?style=flat&logo=whatsapp&logoColor=white)](https:///wa.me/5581999725499?text=Oi+Diego%21+Vim+atrav%C3%A9s+do+link+do+GitHub) 
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-373737?style=flat&logo=whatsapp&logoColor=white)](https:///wa.me/351927398547?text=Oi+Diego%21+Vim+atrav%C3%A9s+do+link+do+GitHub) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/diegooo.dev/) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fischer-753579108/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fischer-753579108/?locale=en_US/)
 
 **A Frontend Developer learning how to code better everyday.**
 
