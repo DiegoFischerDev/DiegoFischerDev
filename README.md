@@ -6,17 +6,20 @@
 
 **A Frontend Developer learning how to code better everyday.**
 
+**Visite my portifolio here:** <a href="https://diegofischer.dev" target="_blank">www.DiegoFischer.dev </a>
+
 ⏱ Currently learning Next.js <a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>, Node.js <a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>, Typescript <a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="Typescript icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a> and several other tools.
 
 🧶 Coding since 2022.
 
 #### Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>
 <a href="https://pt-br.reactjs.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="center" alt="Jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"> </a>
 <a href="https://redux.js.org/" target="_blank"> <img align="center" alt="Redux icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="center" alt="SASS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> </a>
-<a href="https://mui.com/" target="_blank"> <img align="center" alt="MUI (Material UI) icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
 <a href="https://www.markdownguide.org/getting-started/" target="_blank"> <img align="center" alt="Markdown icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"> </a>
@@ -35,6 +38,7 @@
 <!-- <a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>-->
 <!-- <a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>-->
 <!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="center" alt="MongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"> </a>-->
+<a href="https://jestjs.io/" target="_blank"> <img align="center" alt="Jest icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>
 
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofischerdev&show_icons=true&theme=merko&count_private=true)
