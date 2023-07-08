@@ -8,7 +8,7 @@
 
 **Visite my portifolio here:** <a href="https://diegofischer.dev" target="_blank">www.DiegoFischer.dev </a>
 
-⏱ Currently learning Next.js <a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>, Node.js <a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>, Typescript <a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="Typescript icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a> and several other tools.
+⏱ Currently learning Jest.js <a href="https://jestjs.io/" target="_blank"> <img align="center" alt="JestJS icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"> </a>, Node.js <a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>, Typescript <a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="Typescript icon" height="20" width="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a> and several other tools.
 
 🧶 Coding since 2022.
 
